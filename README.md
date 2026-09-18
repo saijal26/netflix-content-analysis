@@ -51,12 +51,12 @@ This project analyzes Netflix's title catalog to understand:
 
 | File | Description |
 |---|---|
-| `notebooks/Netflix_Data_Analysis.ipynb` | Data cleaning and exploratory analysis in Python/Pandas |
-| `data/netflix_titles.csv` | Original raw dataset |
-| `data/netflix_cleaned.csv` | Cleaned dataset (output of the notebook) |
-| `excel/netflix_cleaned.xlsx` | Excel workbook with PivotTables, charts, and a summary Dashboard sheet |
-| `tableau/Netflix_Content_Analysis.twbx` | Full Tableau packaged workbook (dashboard + data) |
-| `screenshots/` | Preview images of the Tableau dashboard and Excel dashboard |
+| `netflix-content-analysis/notebooks/Netflix_Data_Analysis.ipynb` | Data cleaning and exploratory analysis in Python/Pandas |
+| `netflix-content-analysis/data/netflix_titles.csv` | Original raw dataset |
+| `netflix-content-analysis/data/netflix_cleaned.csv` | Cleaned dataset (output of the notebook) |
+| `netflix-content-analysis/excel/netflix_cleaned.xlsx` | Excel workbook with PivotTables, charts, and a summary Dashboard sheet |
+| `netflix-content-analysis/tableau/Netflix_Content_Analysis.twbx` | Full Tableau packaged workbook (dashboard + data) |
+| `netflix-content-analysis/screenshots/` | Preview images of the Tableau dashboard and Excel dashboard |
 
 ## Tools & Libraries
 
